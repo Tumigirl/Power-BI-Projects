@@ -15,3 +15,9 @@ Organizations often struggle to understand employee satisfaction levels across d
 - Excel (data cleaning and manipulation)
 - Power BI
 - Power Query (for data cleaning & transformation)
+## 
+## Solutions & Recommendations
+- Introduce flexible schedules or workload redistribution for roles where low satisfaction is driven by long working hours
+- Introduce structured career growth plans for mid-level employees.
+- Apply targeted engagement strategies to high-risk roles.
+  
