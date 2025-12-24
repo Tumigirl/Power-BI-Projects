@@ -11,3 +11,7 @@ Organizations often struggle to understand employee satisfaction levels across d
 - Source: Real life employee survey data
 - Number of records: 600+ responses
 - Key columns: Unique ID, Job Title, Salary Satisfaction Level,Work-Life Balance Satisfaction Level, Average Yearly Income
+## Tools Used
+- Excel (data cleaning and manipulation)
+- Power BI
+- Power Query (for data cleaning & transformation)
